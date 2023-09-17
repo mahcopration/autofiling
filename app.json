@@ -24,12 +24,12 @@
         },
         "API_ID": {
             "description": "Get this value from https://my.telegram.org",
-            "value":"27846542",
+            "value":"",
             "required": true
         },
         "API_HASH": {
             "description": "Get this value from https://my.telegram.org",
-            "value":"75be2951252a1616bcf31aa45bf62d24",
+            "value":"",
             "required": true
         },
         "CHANNELS": {
@@ -38,7 +38,7 @@
         },
         "ADMINS": {
             "description": "Username or ID of Admin. Separate multiple Admins by space.",
-            "value": "1053777957",
+            "value": "",
             "required": true
         },
         "PICS": {
@@ -48,7 +48,7 @@
         },
         "LOG_CHANNEL": {
             "description": "Bot Logs,Give a channel id with -100xxxxxxx",
-            "value": "-1001910953253",
+            "value": "",
             "required": true
         },
         "AUTH_USERS": {
