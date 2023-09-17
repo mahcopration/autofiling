@@ -1,6 +1,6 @@
 from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, CallbackQuery 
-from plugins.SpidyMods.fonts_func import Fonts
+from plugins.ExtraMods.fonts_func import Fonts
 
 
 @Client.on_message(filters.private & filters.command(["font"]))
