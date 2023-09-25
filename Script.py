@@ -201,7 +201,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
     CAPTION = """
-<b><a href=https://t.me/Cinema_Moviesz>{file_name}</a>
+<b><a href=https://t.me/Cinema_Moviesz>{file_caption}</a>
 ▫️ Mᴀɪɴ Cʜᴀɴɴᴇʟ : <a href="t.me/Cinema_Moviesz">@Cinema_Moviesz</a>
 ▫️ Mᴀɪɴ Cʜᴀɴɴᴇʟ : <a href="t.me/Unknown_Botz">@Unknown_Botz</a></b>""" 
 
