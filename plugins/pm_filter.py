@@ -1305,7 +1305,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                  InlineKeyboardButton('Jᴏɪɴ Cʜᴀɴɴᴇʟ', url=link.invite_link),
                  InlineKeyboardButton("Vɪᴇᴡ Sᴛᴀᴛᴜs", url=f"{query.message.link}")
                ],[
-                 InlineKeyboardButton("", url="telegram.me/YDMovieZone")
+                 InlineKeyboardButton("", url="t.me/Unknown_Support_Bot")
                ]]
         if query.from_user.id in ADMINS:
             user = await client.get_users(from_user)
@@ -1468,7 +1468,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     
     elif query.data == "help":
         buttons = [[
-            InlineKeyboardButton('✉️ ᴀɴʏ ǫᴜᴇʀʏ ✉️', url='https://t.me/UNKNOWN_MAN_ON_MISSION')
+            InlineKeyboardButton('✉️ ᴀɴʏ ǫᴜᴇʀʏ ✉️', url='t.me/Unknown_Support_Bot')
         ], [
             InlineKeyboardButton('∙ ꜰɪʟᴛᴇʀs ∙', callback_data='filters'),
             InlineKeyboardButton('∙ ꜰɪʟᴇ sᴛᴏʀᴇ ∙', callback_data='store_file')
@@ -1787,7 +1787,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "owner_info":
             btn = [[
                     InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="start"),
-                    InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="t.me/UNKNOWN_MAN_ON_MISSION")
+                    InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="t.me/Unknown_Support_Bot")
                   ]]
             await client.edit_message_media(
                 query.message.chat.id, 
@@ -1858,7 +1858,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "shortlink_info":
             btn = [[
                     InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="start"),
-                    InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/UNKNOWN_MAN_ON_MISSION")
+                    InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="t.me/Unknown_Support_Bot")
                   ]]
             await client.edit_message_media(
                 query.message.chat.id, 
@@ -1989,7 +1989,7 @@ async def auto_filter(client, msg, spoll=False):
             btn = [[
                     InlineKeyboardButton(f"Searching  🔍  for {search}", url=CHNL_LNK)
                     ]]
-            dlt = await message.reply_sticker('CAACAgIAAxkBAAECtcVktT1nnSIDQxFolMoMZkBb-7BUKwACaAEAAhAabSL1Nxwp9hekbx4E', reply_markup=InlineKeyboardMarkup(btn))
+            dlt = await message.reply_sticker('CAACAgQAAxkBAAJmcmWH4F2JtnTYhn5sQDZDYdC0tUPgAAL6FgACpvFxHkyKzYENX-WBHgQ', reply_markup=InlineKeyboardMarkup(btn))
             search = search.lower()
             find = search.split(" ")
             search = ""
@@ -2023,7 +2023,7 @@ async def auto_filter(client, msg, spoll=False):
         btn = [[
                 InlineKeyboardButton(f"Searching  🔍  for {search}", url=CHNL_LNK)
                 ]]
-        dlt = await message.reply_sticker('CAACAgIAAxkBAAECtcVktT1nnSIDQxFolMoMZkBb-7BUKwACaAEAAhAabSL1Nxwp9hekbx4E', reply_markup=InlineKeyboardMarkup(btn))
+        dlt = await message.reply_sticker('CAACAgQAAxkBAAJmcmWH4F2JtnTYhn5sQDZDYdC0tUPgAAL6FgACpvFxHkyKzYENX-WBHgQ', reply_markup=InlineKeyboardMarkup(btn))
         settings = await get_settings(message.chat.id)
         await msg.message.delete()
     # if 'is_shortlink' in settings.keys():
