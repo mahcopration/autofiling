@@ -103,7 +103,7 @@
 
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/Rohaniscoder/EasyAdvAutoFilter&branch=main&name=EasyAdvAutoFilter)
 
-.[![Deploy on Railway](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github/Rohaniscoder/EasyAdvAutoFilter) 
+.[![Deploy on Railway](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/minemahsoom/autofilre) 
 
 .[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/y0ryFO) 
 
