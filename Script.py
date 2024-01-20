@@ -129,7 +129,7 @@ Dᴏɴ'ᴛ Wᴏʀʀʏ 😊, Cʜᴏᴏsᴇ Tʜᴇ Cᴏʀʀᴇᴄᴛ Oɴᴇ Bᴇʟ
 
 ᴍᴏᴠɪᴇ ʀᴇǫᴜᴇꜱᴛ ꜰᴏʀᴍᴀᴛ 👇
 
-ᴇxᴀᴍᴘʟᴇ : Bhediya or Bhediya 2022 or Avatar 2009 Hindi
+ᴇxᴀᴍᴘʟᴇ : Bhediya or Bhediya 2022 or Avatar 2009 Tamil
 
 ꜱᴇʀɪᴇꜱ ʀᴇǫᴜᴇꜱᴛ ꜰᴏʀᴍᴀᴛ 👇
 
@@ -147,7 +147,7 @@ Dᴏɴ'ᴛ Wᴏʀʀʏ 😊, Cʜᴏᴏsᴇ Tʜᴇ Cᴏʀʀᴇᴄᴛ Oɴᴇ Bᴇʟ
     MELCOW_ENG = """<b>Hᴇʟʟᴏ {} 😍, Aɴᴅ Wᴇʟᴄᴏᴍᴇ Tᴏ {} Gʀᴏᴜᴘ ❤️</b>"""
 
     SHORTLINK_INFO = """
-<b>─────「<a href=https://t.me/Cinema_Moviesz> Hᴏᴡ ᴛᴏ Eᴀʀɴ Mᴏɴᴇʏ </a> 」─────
+<b>─────「<a href=https://t.me/Tamil_HDLatest_Movies> Hᴏᴡ ᴛᴏ Eᴀʀɴ Mᴏɴᴇʏ </a> 」─────
 
 Yᴏᴜ ᴄᴀɴ Eᴀʀɴ Mᴏɴᴇʏ Fʀᴏᴍ Tʜɪs Bᴏᴛ Uɴᴛɪʟ ᴛʜɪs ʙᴏᴛ ɪs ᴀʟɪᴠᴇ.
 
@@ -155,9 +155,9 @@ Wᴀɴᴛ ᴛᴏ Kɴᴏᴡ Hᴏᴡ? Fᴏʟʟᴏᴡ Tʜᴇsᴇ Sᴛᴇᴘs:-
 
 sᴛᴇᴘ 𝟷 : ʏᴏᴜ ᴍᴜsᴛ ʜᴀᴠᴇ ᴀᴛʟᴇᴀsᴛ ᴏɴᴇ ɢʀᴏᴜᴘ ᴡɪᴛʜ ᴍɪɴɪᴍᴜᴍ 1𝟶𝟶 ᴍᴇᴍʙᴇʀs.
 
-sᴛᴇᴘ 𝟸 : ᴍᴀᴋᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ Aɴʏ <a href=https://easysky.in/ref/ROHAN5>Sʜᴏʀᴛᴇɴᴇʀ Wᴇʙsɪᴛᴇ</a>.
+sᴛᴇᴘ 𝟸 : ᴍᴀᴋᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ Aɴʏ <a href=https://tnshort.net/ref/Mahsoom64>Sʜᴏʀᴛᴇɴᴇʀ Wᴇʙsɪᴛᴇ</a>.
 
-sᴛᴇᴘ 𝟹 : ꜰᴏʟʟᴏᴡ ᴛʜᴇsᴇ <a href=https='t.me/Unknown_Botz/7> ɪɴꜱᴛʀᴜᴄᴛɪᴏɴꜱ </a>Tᴏ ᴄᴏɴɴᴇᴄᴛ sʜᴏʀᴛᴇɴᴇʀ.
+sᴛᴇᴘ 𝟹 : ꜰᴏʟʟᴏᴡ ᴛʜᴇsᴇ <a href=https://t.me/Call_me_futurepilot> ɪɴꜱᴛʀᴜᴄᴛɪᴏɴꜱ </a>Tᴏ ᴄᴏɴɴᴇᴄᴛ sʜᴏʀᴛᴇɴᴇʀ.
 
 ➣ Yᴏᴜ ᴄᴀɴ ᴄᴏɴɴᴇᴄᴛ ᴀs ᴍᴀɴʏ ɢʀᴏᴜᴘ ʏᴏᴜ ʜᴀᴠᴇ.
 
@@ -199,11 +199,11 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
     CAPTION = """
-<b><a href=https://t.me/Unknown_Cinema>{file_caption}</a>
+<b><a href=https://t.me/Tamil_HDLatest_Movies>{file_caption}</a>
 
 
-▫️ Mᴀɪɴ Cʜᴀɴɴᴇʟ : @Unknown_Cinema
-▫️ Mᴀɪɴ Cʜᴀɴɴᴇʟ : @Unknown_Request</b>""" 
+▫️ Mᴀɪɴ Cʜᴀɴɴᴇʟ : @Tamil_HDLatest_Movies
+▫️ Cʜᴀɴɴᴇʟ : @Call_me_futurepilot</b>""" 
 
     FORCE_SUB = """
 **⚠️ Pʟᴇᴀsᴇ ғᴏʟʟᴏᴡ ᴛʜɪs ʀᴜʟe ⚠️
@@ -250,7 +250,7 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 
     OWNER_INFO = """
 <b> ⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
- ◈ ꜰᴜʟʟ ɴᴀᴍᴇ : ᴜɴᴋɴᴏᴡɴ ✌ 
+ ◈ ꜰᴜʟʟ ɴᴀᴍᴇ :  ᴍᴀʜꜱᴏᴏᴍ
  ◈ ɪғ ʏᴏᴜ ᴡᴀɴᴛ ʏᴏᴜʀ ᴏᴡɴ ᴀɴʏ ᴛʏᴘᴇ ᴏғ ʙᴏᴛ ᴛʜᴇɴ ᴅᴍ ᴍᴇ " ᴘᴀɪᴅ " 
  </b>"""
 
@@ -286,7 +286,7 @@ To Get Sticker ID
     CON_TXT = """<b><u>ᴄᴏᴜɴᴛʀʏ ɪɴғᴏ</b></u>
 <b>Tʜɪs ᴍᴏᴅᴜʟᴇ ɪs ᴛᴏ ғɪɴᴅ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴄᴏᴜɴᴛʀɪᴇs</b>
 • /country [𝖼𝗈𝗎𝗇𝗍𝗋𝗒 𝗇𝖺𝗆𝖾] 
-𝖤𝗑𝖺𝗆𝗉𝗅𝖾 :- <code>/country India</code>"""
+𝖤𝗑𝖺𝗆𝗉𝗅𝖾 :- <code>/country Srilanka</code>"""
 
     RULE_TXT = """
 <b>♨️ 𝗚𝗥𝗢𝗨𝗣 𝗥𝗨𝗟𝗘𝗦 ♨️
@@ -339,8 +339,7 @@ coммand and υѕeѕ
     ɴᴏᴡ ʏᴏᴜ ʜᴀᴠᴇ ᴜɴʟɪᴍɪᴛᴇᴅ ᴀᴄᴄᴇss ғᴏʀ ᴀʟʟ ᴍᴏᴠɪᴇs ᴛɪʟʟ ᴛᴏᴅᴀʏ ᴍɪᴅɴɪɢʜᴛ.</b>"""
 
     VERIFY_TXT = """<b>ʜᴇʟʟᴏ {},
-ʏᴏᴜʀ ᴀʀᴇ ɴᴏᴛ ᴠᴇʀɪғɪᴇᴅ ᴛᴏᴅᴀʏ,ᴘʟᴇᴀꜱᴇ ᴠᴇʀɪғʏ ɴᴏᴡ ᴀɴᴅ ɢᴇᴛ ᴜɴʟɪᴍɪᴛᴇᴅ ᴀᴄᴄᴇꜱꜱ ғᴏʀ ɴᴇxᴛ ᴠᴇʀɪғɪᴄᴀᴛɪᴏɴ...
-इस बाॅट को इस्तेमाल करने के लिए आपको ᴠᴇʀɪғʏ करना होगा नहीं तो आप इसका इस्तेमाल नहीं कर पाएंगे |</b>"""
+ʏᴏᴜʀ ᴀʀᴇ ɴᴏᴛ ᴠᴇʀɪғɪᴇᴅ ᴛᴏᴅᴀʏ,ᴘʟᴇᴀꜱᴇ ᴠᴇʀɪғʏ ɴᴏᴡ ᴀɴᴅ ɢᴇᴛ ᴜɴʟɪᴍɪᴛᴇᴅ ᴀᴄᴄᴇꜱꜱ ғᴏʀ ɴᴇxᴛ ᴠᴇʀɪғɪᴄᴀᴛɪᴏɴ...|</b>"""
 
     VERIFY2_TXT = """
 <b>Vᴇʀɪғʏ Sᴛᴀᴛᴜꜱ
