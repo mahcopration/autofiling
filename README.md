@@ -99,7 +99,7 @@
 ) for more optional variables
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Rohaniscoder/EasyAdvAutoFilter)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mahcopration/autofiling)
 
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/Rohaniscoder/EasyAdvAutoFilter&branch=main&name=EasyAdvAutoFilter)
 
