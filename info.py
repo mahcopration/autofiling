@@ -15,27 +15,27 @@ def is_enabled(value, default):
 SESSION = environ.get('SESSION', 'Media_search')
 API_ID = int(environ.get('API_ID', '10917377'))
 API_HASH = environ.get('API_HASH', '22bfe49f4482c5cb5424729249a5f097')
-BOT_TOKEN = environ.get('BOT_TOKEN', "6529489175:AAFMxIsD4ntYpIBPbW3NfzpuOFusojwe_0E")
+BOT_TOKEN = environ.get('BOT_TOKEN', "6870892803:AAE-hAoDU1kqVXyEqKTqeTehoXvyC6rx1Rw")
 
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
-PICS = (environ.get('PICS', 'https://telegra.ph/file/f18bee06dc31090c7bc2c.jpg')).split()
-NOR_IMG = environ.get("NOR_IMG", "https://telegra.ph/file/f18bee06dc31090c7bc2c.jpg")
+PICS = (environ.get('PICS', 'https://graph.org/file/039bb5c3db0a2ffa34184.jpg')).split()
+NOR_IMG = environ.get("NOR_IMG", "https://graph.org/file/039bb5c3db0a2ffa34184.jpg")
 MELCOW_VID = environ.get("MELCOW_VID", "https://graph.org/file/900c5d3aca7c6b100eb69.mp4")
 SPELL_IMG = environ.get("SPELL_IMG", "https://graph.org/file/7b0ba2952ec098bb46997.jpg")
-VRFIED_IMG = environ.get("VRFIED_IMG", "https://telegra.ph/file/f18bee06dc31090c7bc2c.jpg")
-VRFY_IMG = environ.get("VRFY_IMG", "https://telegra.ph/file/f18bee06dc31090c7bc2c.jpg")
+VRFIED_IMG = environ.get("VRFIED_IMG", "https://graph.org/file/039bb5c3db0a2ffa34184.jpg")
+VRFY_IMG = environ.get("VRFY_IMG", "https://graph.org/file/039bb5c3db0a2ffa34184.jpg")
 
 # Admins, Channels & Users
-ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '6112399514 6412533552').split()]
-CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1002003465001').split()]
-auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '6112399514 6412533552').split()]
+ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '6112399514 1096374497 1884903409').split()]
+CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1002042355760').split()]
+auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '6112399514 1096374497 1884903409').split()]
 AUTH_USERS = (auth_users + ADMINS) if auth_users else []
-PREMIUM_USER = [int(user) if id_pattern.search(user) else user for user in environ.get('PREMIUM_USER', '6112399514 6412533552').split()]
-auth_channel = environ.get('AUTH_CHANNEL', '-1001938180288')
-auth_grp = environ.get('AUTH_GROUP', '-1002129148239')
+PREMIUM_USER = [int(user) if id_pattern.search(user) else user for user in environ.get('PREMIUM_USER', '6112399514 1096374497 1884903409').split()]
+auth_channel = environ.get('AUTH_CHANNEL', '-1001929985760')
+auth_grp = environ.get('AUTH_GROUP', '-1002032999615')
 AUTH_CHANNEL = int(auth_channel) if auth_channel and id_pattern.search(auth_channel) else None
 AUTH_GROUPS = [int(ch) for ch in auth_grp.split()] if auth_grp else None
 support_chat_id = environ.get('SUPPORT_CHAT_ID', '')
@@ -52,21 +52,21 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'AutoFilter')
 # Others
 VERIFY = bool(environ.get('VERIFY', False))
 SHORTLINK_URL = environ.get('SHORTLINK_URL', 'tnshort.net')
-SHORTLINK_API = environ.get('SHORTLINK_API', '64a7a2e247300209aef05e68d08fdf3f7b41031e')
+SHORTLINK_API = environ.get('SHORTLINK_API', '456f384f5a410262f059d53775f45f5834c80194')
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', True))
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '0').split()]
 MAX_B_TN = environ.get("MAX_B_TN", "10")
 MAX_BTN = is_enabled((environ.get('MAX_BTN', "True")), True)
 PORT = environ.get("PORT", "8080")
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+4OvtMAKAmfpiZjhl')
-SPRT_CHNL = environ.get('SPRT_CHNL', 'https://t.me/Tamil_HDLatest_Movies')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/Call_me_futurepilot')
-TUTORIAL = environ.get('TUTORIAL', 'https://t.me/howtodownloadfilesoffic/14')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+HoGh_wRKWPQxYWZl')
+SPRT_CHNL = environ.get('SPRT_CHNL', 'https://t.me/Cinemas_Trend')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/Cinemas_Trend')
+TUTORIAL = environ.get('TUTORIAL', 'https://t.me/Cinemas_Trend/40')
 IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', True))
-HOW_TO_VERIFY = environ.get('HOW_TO_VERIFY', 'https://t.me/howtodownloadfilesoffic/14')
+HOW_TO_VERIFY = environ.get('HOW_TO_VERIFY', 'https://t.me/Cinemas_Trend/40')
 MSG_ALRT = environ.get('MSG_ALRT', 'Mahsoom')
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002085877381'))
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'Tamil_HDLatest_Movies')
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'Cinemas_Trend')
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "True")), True)
 IMDB = is_enabled((environ.get('IMDB', "True")), False)
 AUTO_FFILTER = is_enabled((environ.get('AUTO_FFILTER', "True")), True)
